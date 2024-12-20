@@ -1,6 +1,7 @@
+
 <div align="center">
 
-Made with 💜 by [Anmol](https://twitter.com/Anmol_Codes)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=700&color=F1FF00&width=850&height=70&lines=Scroll+down+to+get+to+know+me!!!)](https://git.io/typing-svg)
 
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; GIFs For Readme &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
